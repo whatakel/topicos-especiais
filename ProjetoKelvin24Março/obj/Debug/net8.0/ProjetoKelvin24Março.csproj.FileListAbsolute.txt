@@ -1,0 +1,15 @@
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\bin\Debug\net8.0\ProjetoKelvin24Março.exe
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\bin\Debug\net8.0\ProjetoKelvin24Março.deps.json
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\bin\Debug\net8.0\ProjetoKelvin24Março.runtimeconfig.json
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\bin\Debug\net8.0\ProjetoKelvin24Março.dll
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\bin\Debug\net8.0\ProjetoKelvin24Março.pdb
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\obj\Debug\net8.0\ProjetoKelvin24Março.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\obj\Debug\net8.0\ProjetoKelvin24Março.AssemblyInfoInputs.cache
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\obj\Debug\net8.0\ProjetoKelvin24Março.AssemblyInfo.cs
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\obj\Debug\net8.0\ProjetoKelvin24Março.csproj.CoreCompileInputs.cache
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\obj\Debug\net8.0\ProjetoKelvin24Março.sourcelink.json
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\obj\Debug\net8.0\ProjetoKelvin24Março.dll
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\obj\Debug\net8.0\refint\ProjetoKelvin24Março.dll
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\obj\Debug\net8.0\ProjetoKelvin24Março.pdb
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\obj\Debug\net8.0\ProjetoKelvin24Março.genruntimeconfig.cache
+C:\Users\KELVINMATHEUSLOPESCA\kelvin\ProjetoKelvin24Março\obj\Debug\net8.0\ref\ProjetoKelvin24Março.dll
