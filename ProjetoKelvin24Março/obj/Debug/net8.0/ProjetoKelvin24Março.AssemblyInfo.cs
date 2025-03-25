@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoKelvin24Março")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6ab891338710bfc37953521b4ad1060a4837783")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0277f2c33e8eb3f34c1eb02e73034dc940499e73")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoKelvin24Março")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoKelvin24Março")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
